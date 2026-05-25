@@ -118,8 +118,8 @@ The notebook will:
 from transformers import ViTForImageClassification, AutoImageProcessor
 import torch
 
-processor = AutoImageProcessor.from_pretrained('path/to/saved/model')
-model = ViTForImageClassification.from_pretrained('path/to/saved/model')
+processor = AutoImageProcessor.from_pretrained('Alielgamal22/Cancer_Detection_Model')
+model = ViTForImageClassification.from_pretrained('Alielgamal22/Cancer_Detection_Model')
 model.eval()
 ```
 
