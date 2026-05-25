@@ -1,4 +1,5 @@
 # Skin Cancer Detection Model
+**Model:** [Alielgamal22/Cancer_Detection_Model](https://huggingface.co/Alielgamal22/Cancer_Detection_Model)
 
 A deep learning system for classifying skin lesions into 7 diagnostic categories using a fine-tuned Vision Transformer (ViT), trained on the HAM10000 dermatology dataset.
 
